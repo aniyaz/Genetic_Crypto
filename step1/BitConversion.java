@@ -1,5 +1,6 @@
+package step1;
 import java.io.*;
-class BitConversion
+public class BitConversion
 {
 	
 	public void convert(int n, int bit[])
